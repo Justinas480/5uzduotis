@@ -1,0 +1,49 @@
+table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+table {
+  width: 60%;
+  margin: 40px auto;
+}
+
+.second td, .second th {
+  width: math(60% / 4);
+}
+
+th, td {
+  height: 40px;
+}
+
+.a {
+  background: #FF6347;
+}
+
+.b {
+  background: #FFA500;
+}
+
+.c {
+  background: #1E90FF;
+}
+
+.d {
+  background: #3CB371;
+}
+
+.e {
+  background: #808080;
+}
+
+.f {
+  background: #6A5ACD;
+}
+
+.g {
+  background: #EE82EE;
+}
+
+.h {
+  background: #D3D3D3;
+}
